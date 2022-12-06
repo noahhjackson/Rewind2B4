@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Rewind2B4
+- Hi, I’m NHJackson (@Rewind2B4)
 
-- 👀 I’m interested in automation, all things raspberry Pi, a bit of arduino (but I'm not the best at it....), heaps of python, and will probably end up learning PLC code. 
-I have also briefly looked at C++
+- I’m interested in automation, all things raspberry Pi, a bit of arduino, and heaps of python. 
 
-- 🌱 I’m currently learning C++, Python, and anything else that will work for my projects.
+- I’m familiar with arduino code, python, matlab/simulink, and PLC programming (Omron, Beckhoff, etc). 
 
-- 💞️ I’m looking to collaborate on automation, computer vision, etc. 
+- I’m looking to collaborate on automation, computer vision, etc. 
 
 
 <!---
